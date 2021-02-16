@@ -1,0 +1,68 @@
+.pkp_structure_head {
+
+    background: white;
+    height:100%;
+    width: 100%;
+}
+
+.pkp_site_name .is_img img {
+
+    display: block;
+    width: auto;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+
+body {
+   	background: url(https://image.freepik.com/free-vector/green-abstract-geometric-background_23-2148366726.jpg);
+    min-width: 130px !important;
+}
+
+.pkp_navigation_primary > li > a {
+
+    display: block;
+	color: white;
+
+}
+.pkp_navigation_primary_row {
+    display: block;
+	color: green;
+}
+
+.pkp_navigation_user > li > a {
+	display: block;
+	color: yellow;
+}
+
+.pkp_structure_main {
+
+    background: white;
+    height:auto;
+
+}
+
+.pkp_structure_sidebar {
+
+    background: white;
+    height:auto;
+
+}
+
+.pkp_head_wrapper {
+    background: white;
+    width="2100" height="696"
+}
+
+.pkp_structure_content {
+
+    background: white;
+    height:auto;
+}
+
+
+.pkp_footer_content {
+	float:left; width:70%; padding-top:10px; padding-bottom:10px}
+.pkp_brand_footer {
+	float:right; width:30%; padding-top:10px; padding-bottom:10px}
