@@ -16,47 +16,42 @@
 }
 
 body {
-   	background: url(https://image.freepik.com/free-vector/luxury-ornamental-mandala-background-gold-color_1159-20043.jpg);
-    min-width: 130px !important;
+   	background: url(https://image.freepik.com/free-vector/realistic-three-dimensional-arabic-ornamental-background_23-2148871087.jpg);
+    min-width: 100px !important;
 }
 
 .pkp_navigation_primary > li > a {
-
     display: block;
 	color: white;
-
 }
+
 .pkp_navigation_primary_row {
     display: block;
 	color: green;
 }
 
 .pkp_navigation_user > li > a {
-	display: block;
+    display: block;
 	color: #49ff01;
 }
 
 .pkp_structure_main {
-
-    background: white;
+    background: #f9f8e4;
     height:auto;
-
 }
 
 .pkp_structure_sidebar {
 
-    background: white;
+    background: #8cab90;
     height:auto;
-
 }
 
 .pkp_head_wrapper {
     background: #8cab90;
-    width="2100" height="600";
+    width="1000" height="150";
 }
 
 .pkp_structure_content {
-
     background: white;
     height:auto;
 }
@@ -64,14 +59,15 @@ body {
 /*List Arikel Background*/
 .obj_issue_toc .articles > li {
 	margin-bottom: 20px;
-	border-bottom: solid darkseagreen;
-/*	background-color: #4cbf89 !important;*/	
-	background: transparent url("https://i.ibb.co/4YfscGf/pattern.png") repeat scroll 0% 0% !important;
+	border-bottom: #8cab90;
+/*	background-color: white !important;*/	
+	background: transparent url("https://www.nsula.edu/wp-content/uploads/sites/9/2015/06/gradient-600x400.jpg") repeat scroll 0% 0% !important;
 	padding: 1rem;
 	border-radius: 0rem 0rem 2rem 0rem;
 	/*border-radius: 2rem 2rem 2rem 2rem;*/
 	box-shadow: .2rem .2rem .1rem #4bff03;
 }
+
 
 .pkp_footer_content {
 	float:left; width:70%; padding-top:10px; padding-bottom:10px}
